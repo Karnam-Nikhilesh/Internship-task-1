@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+img{
+    height: 700px;
+    width: 550px;
+    border: none;
+    border-radius: 20px;
+}
+button {
+    background-color: bisque;
+    color:blueviolet;
+    border:none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+button:hover{
+    background-color:blue;
+}
